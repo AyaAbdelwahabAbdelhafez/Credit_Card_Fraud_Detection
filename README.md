@@ -86,5 +86,7 @@ Clone the repository:
 git clone https://github.com/AyaAbdelwahabAbdelhafez/Credit_Card_Fraud_Detection.git
 cd Credit_Card_Fraud_Detection
 
+---
+
 ## 👩‍💻 Author
 - Aya Abdelwahab Abdelhafez
